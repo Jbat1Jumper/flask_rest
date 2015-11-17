@@ -1,0 +1,1 @@
+Ver: http://stackoverflow.com/questions/16877968/call-a-server-side-method-on-a-resource-in-a-restful-way
